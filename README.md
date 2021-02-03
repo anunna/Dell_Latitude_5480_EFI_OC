@@ -10,6 +10,7 @@ BigSur 11.1 using OC 0.6.5 (Soon will migrate to OC 0.6.6)
 ## Working
 
 - Wifi and Bluetooth
+- Touchscreen
 - Intergrated Webcam
 - Backlight
 - USB-A/C ports
