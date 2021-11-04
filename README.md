@@ -1,6 +1,7 @@
 # Dell_Latitude_5480_EFI
 
-BigSur 11.1 using OC 0.6.5 (Soon will migrate to OC 0.6.6)
+**CURRENT:** BigSur 11.1 using OC 0.6.5
+
 
 ## Specs
 
@@ -24,4 +25,7 @@ BigSur 11.1 using OC 0.6.5 (Soon will migrate to OC 0.6.6)
  
  - Keyboard
  - Trackpad
- 
+
+## Upgrade Status
+
+**WIP:** Monterey 12 using OC 0.7.5
