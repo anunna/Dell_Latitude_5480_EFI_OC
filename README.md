@@ -1,6 +1,6 @@
 # Dell_Latitude_5480_EFI
 
-**CURRENT:** BigSur 11.1 using OC 0.6.5
+**CURRENT:** Monterey 12.0.1 using OC 0.7.5
 
 
 ## Specs
@@ -10,7 +10,7 @@
 
 ## Working
 
-- Wifi and Bluetooth
+- Wifi
 - Touchscreen
 - Intergrated Webcam
 - Backlight
@@ -25,7 +25,4 @@
  
  - Keyboard
  - Trackpad
-
-## Upgrade Status
-
-**WIP:** Monterey 12 using OC 0.7.5
+ - Bluetooth
