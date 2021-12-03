@@ -10,7 +10,7 @@
 
 ## Working
 
-- Wifi and Bluetooth
+- Wifi
 - Touchscreen
 - Intergrated Webcam
 - Backlight
@@ -25,4 +25,4 @@
  
  - Keyboard
  - Trackpad
-
+ - Bluetooth
