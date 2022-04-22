@@ -1,12 +1,13 @@
 # Dell_Latitude_5480_EFI
 
-**CURRENT:** Monterey 12.0.1 using OC 0.7.5
+**CURRENT:** Monterey 12.3.1 using OC 0.7.5
 
 
 ## Specs
 
-- Intel i5-6 (Skylake)
-- 265GB M.2 PCIe SSD
+- CPU: Intel i5-6 2.5 GHz(Skylake)
+- DISK: 265GB M.2 PCIe SSD
+- GPU: Intel HD Grapics 520
 
 ## Working
 
@@ -20,9 +21,14 @@
 - Dell sensors
 - SFD card reader
 - HDMI Port
+- Keyboard
+- Trackpad + Gestures
+- Bluetooth
 
 ## Not working
  
- - Keyboard
- - Trackpad
- - Bluetooth
+ - Report an issue
+
+## TODO
+
+- Update to OC 0.8
